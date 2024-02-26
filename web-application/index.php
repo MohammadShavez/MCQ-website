@@ -1,0 +1,16 @@
+<?php include_once "hedder.php" ?>
+
+<div id="img">
+    <div id="bg">
+<h1 id="htext"><span id="wel">Welcome</span> to our new website.</h1>
+<p id="ptext">
+    This is a website to built your knlowlage inclrease.
+</p>
+<a href="stard_categary/start.php" > <button class="sbtn" > Start here.<i class="fa fa-arrow-right" aria-hidden="true"></i></button></a>
+<a href="aboutus.php"><button class="sbtn" > About US.<i class="fa fa-info-circle" aria-hidden="true"></i> </button></a> 
+</div>
+</div>
+
+
+
+<?php include_once "footer.php"; ?>

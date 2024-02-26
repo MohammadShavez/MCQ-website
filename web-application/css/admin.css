@@ -1,0 +1,49 @@
+.header{
+    height: 100px;
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Gill Sans', sans-serif;
+    line-height: 100px;
+}
+.text-h{
+    justify-content: center;
+    text-align: center;
+    color: red;;
+}
+.formdesine{
+    margin: 50px auto;
+    width: 400px;
+    border: 1px solid #000000da;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+.formdesine h3{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.addbtn{
+    margin-top: 30px;
+    width: 100%;
+}
+/* add page */
+.outer{
+    padding: 20px 25px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 15px;
+}
+label{
+    font-size: 22px;
+}
+.rb{
+    text-align: center;
+    accent-color: brown;
+}
+.profile{
+    margin: 10px;
+    
+}
+.prop-style{
+    color: rgb(206, 24, 166);
+   
+}

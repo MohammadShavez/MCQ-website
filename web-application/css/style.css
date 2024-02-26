@@ -1,0 +1,230 @@
+.name{
+    font-size: 36px;
+     text-align: center;
+     height: 100px;
+     color: white;
+     font-family: Courier;
+}
+span{
+    font-size: 80px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+#logo{
+    width: 100px;
+    padding: 15px;
+    margin-left: 20px;
+}
+.logbtn{
+    
+    border: none;
+    background-color: green;
+    border-radius: 25px;
+    width: 150px;
+    height: 35px;
+    color: white;
+    margin-top: 50px;
+    right: 10px;
+}
+
+.logbtn a{
+    color: #fff;
+   
+}
+.logbtn a:hover{
+    color: #fff;
+    text-decoration: #fff;
+}
+.logbtn:hover{
+    background-color: rgb(7, 58, 3);
+}
+
+/* frame desine */
+#img{
+   background-image: url(../img/bg.jpg);
+  
+   height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+#bg{
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+}
+#htext{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 200px 0px 0px 100px;
+    
+}
+#ptext{
+    color: rgb(214, 161, 16);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px 0px 0px 120px;
+}
+#wel{
+    font-size: 50px;
+    color: rgb(214, 161, 16);
+    font-family: sans-serif;
+   
+}
+.sbtn {
+    padding: 5px 50px;
+    border-radius: 10px;
+    background: transparent;
+    border: 2px solid rgb(96, 147, 243);
+    color: #6093f3;
+    margin: 60px 70px;
+}
+.sbtn a{
+    color: #6093f3;
+    
+}
+.sbtn:hover{
+    background: #1554ca;
+    border: 2px solid #1554ca;
+    color: #fff;
+}
+.sbtn a:hover{
+    background: #1554ca;
+    color: #fff ;
+    text-decoration:none ;
+
+}
+/* resister page desaine */
+.formdesine{
+    margin: 50px auto;
+    width: 400px;
+    border: 1px solid #000000da;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+.formdesine h3{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+#gen{
+    margin: 15px 20px 0px 0px ;
+}
+.resisbtn{
+    margin-top: 30px;
+    width: 100%;
+}
+/* footer page desine */
+footer{
+    height: fit-content;
+    width: 100%;
+    background-color: #007bff;
+}
+li{
+    list-style: none;
+    text-transform: capitalize;
+
+}
+li a {
+    
+    color: white;
+    text-decoration: none;
+}
+li a:hover{
+    color: blue;
+    text-decoration: none;
+}
+#flink{
+    color: red;
+}
+h5{
+    padding-top: 20px;
+   
+    font-family:  verdana ;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+
+/* start page */
+.qbtn {
+
+	margin: 10px ;
+    border: 1px solid black;
+}
+
+
+.opt{
+    
+    margin: 10px auto;
+    border-radius: 20px;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+ 
+.nbtn{
+    display: flex;
+    align-content: center;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+/*  */
+.user_name{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.logout{
+    margin-top: 10px;
+    width: auto;
+    background-color: rgb(186, 230, 30);
+    color: #000;
+}
+/*  */
+.bbxbox{
+    background: rgb(151, 182, 238);
+    height : 150px;
+    min-width: 150px;
+    margin: 20px;
+    border-radius: 14px;
+    box-shadow: 1px -1px 5px 3px rgb(0, 0, 0);
+    text-align: center;
+    padding: 50px;
+    text-transform: uppercase;
+    color: Black;
+    }
+a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
+    text-shadow: 3px 3px 10px black;
+}
+a:hover{
+    text-decoration: none;
+}
+
+ a .bbxbox:hover{
+     background-color: rgb(93, 145, 204);
+      height: 150px;
+     min-width: 150px;
+     margin: 20px;
+     border-radius: 14px;
+     box-shadow: 3px -3px 10px 7px rgb(0, 0, 0);
+     text-align: center;
+     padding: 50px;
+     color: #fff;
+    t
+     
+ }
+ /*  */
+ .radeicss{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px auto ;
+    accent-color: green;
+ }
